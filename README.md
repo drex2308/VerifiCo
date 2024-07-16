@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-**Verifico** is a cutting-edge digital platform designed to securely store and verify student certificates using blockchain technology. This project addresses the critical issue of certificate forgery and the manual overhead associated with verification by implementing an automated, reliable, and immutable infrastructure using Hyperledger Fabric and IPFS (Interplanetary File System).
+**Verifico** is a cutting-edge digital platform designed to securely store and verify student certificates using blockchain technology. This project addresses the critical issue of certificate forgery and the manual overhead associated with verification by implementing an automated, reliable, and immutable infrastructure using Hyperledger Fabric and IPFS (Interplanetary File System), which btw is really cool, checkout my paper based on this project on the IPFS network https://ipfs.io/ipfs/Qmf1WgXNH514mbA9gMDUPTTayMDXCJP127tzdTKtTD7Tgo
 
 ## Key Features
 
