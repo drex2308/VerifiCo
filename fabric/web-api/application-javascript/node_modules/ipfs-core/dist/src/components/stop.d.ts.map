@@ -1,0 +1,1 @@
+{"version":3,"file":"stop.d.ts","sourceRoot":"","sources":["../../../src/components/stop.js"],"names":[],"mappings":"AAaiB;IAPoC,OAAO,EAAjD,OAAO,UAAU,EAAE,cAAc;IACE,OAAO,EAA1C,OAAO,UAAU,EAAE,OAAO;IACW,YAAY,EAAjD,OAAO,oBAAoB,CAAC;IACH,IAAI,EAA7B,OAAO,QAAQ,CAAC;IACY,IAAI,EAAhC,OAAO,WAAW,CAAC;IACmB,UAAU,EAAhD,OAAO,UAAU,EAAE,UAAU;qCAkBvC"}

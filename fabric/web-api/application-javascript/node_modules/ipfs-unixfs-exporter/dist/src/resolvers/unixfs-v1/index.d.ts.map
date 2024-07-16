@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../src/resolvers/unixfs-v1/index.js"],"names":[],"mappings":";AA2CA;;GAEG;AACH,8BAFU,QAAQ,CA+DjB;;;;gBA9FY,OAAO,aAAa,EAAE,QAAQ;WAN9B,OAAO,MAAM,CAAC;YACd,OAAO,MAAM,CAAC;eACd,OAAO,aAAa,EAAE,OAAO;uBAC7B,OAAO,aAAa,EAAE,eAAe;mBACrC,OAAO,aAAa,EAAE,WAAW;eACjC,OAAO,aAAa,EAAE,OAAO;wBAE7B,OAAO,aAAa,EAAE,gBAAgB"}
